@@ -1,0 +1,110 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.2.12">
+  <diagram name="Page-1" id="BVGJldhgJwXSqtjZh9v8">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cib3AAdgTHDXeXMJrdYf-1" target="Cib3AAdgTHDXeXMJrdYf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="383" y="30" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cib3AAdgTHDXeXMJrdYf-2" target="Cib3AAdgTHDXeXMJrdYf-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cib3AAdgTHDXeXMJrdYf-2" target="Cib3AAdgTHDXeXMJrdYf-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="293" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-2" value="Подаден ли е аргументът &quot;-R&quot;?" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="353" y="160" width="145" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cib3AAdgTHDXeXMJrdYf-5" target="Cib3AAdgTHDXeXMJrdYf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-5" value="Обработи директорията" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cib3AAdgTHDXeXMJrdYf-8" target="Cib3AAdgTHDXeXMJrdYf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-8" value="Отвори директорията" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="233" y="255" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cib3AAdgTHDXeXMJrdYf-9" target="Cib3AAdgTHDXeXMJrdYf-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cib3AAdgTHDXeXMJrdYf-9" target="Cib3AAdgTHDXeXMJrdYf-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-9" value="Файлът директория&lt;div&gt;ли е?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="244.5" y="330" width="97" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cib3AAdgTHDXeXMJrdYf-10" target="Cib3AAdgTHDXeXMJrdYf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="460" />
+              <mxPoint x="130" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-10" value="Изведи името&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22378%22%20y%3D%2220%22%20width%3D%2295%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;на директорията&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cib3AAdgTHDXeXMJrdYf-11" target="Cib3AAdgTHDXeXMJrdYf-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="510" />
+              <mxPoint x="426" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-11" value="Изведи информацията&amp;nbsp;&lt;div&gt;за файла&lt;span style=&quot;background-color: transparent; color: light-dark(rgba(0, 0, 0, 0), rgb(237, 237, 237)); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22378%22%20y%3D%2220%22%20width%3D%2295%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphзаз&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cib3AAdgTHDXeXMJrdYf-12" target="Cib3AAdgTHDXeXMJrdYf-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="510" />
+              <mxPoint x="426" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-12" value="Изведи името&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BE%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22378%22%20y%3D%2220%22%20width%3D%2295%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;на директорията&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-18" value="Не" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="180" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-19" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="180" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-21" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="350" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-22" value="Не" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="350" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cib3AAdgTHDXeXMJrdYf-23" value="Край" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="383" y="540" width="85" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
